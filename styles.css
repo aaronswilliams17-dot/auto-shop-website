@@ -2,7 +2,7 @@
 
 /* ---------- Basic reset + variables ---------- */
 :root{
-  --bg: #0b1220;
+  --bg: #f4f6f8;
   --panel: #111a2e;
   --text: #e8eefc;
   --muted: #b7c3dd;
@@ -379,3 +379,4 @@ details p{
 
   .map-wrap iframe{ height: 360px; }
 }
+
