@@ -4,7 +4,7 @@
 :root{
   --bg: #0b1220;
   --panel: #111a2e;
-  --text: #808080;
+  --text: #00ff00;
   --muted: #b7c3dd;
   --accent: #4da3ff;
   --accent2: #53d6a6;
@@ -379,6 +379,7 @@ details p{
 
   .map-wrap iframe{ height: 360px; }
 }
+
 
 
 
