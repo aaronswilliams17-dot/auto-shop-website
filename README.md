@@ -14,6 +14,45 @@ The site reflects how many real auto repair businesses operate: simple, phone-fi
 - Prioritize performance and simplicity
 - Demonstrate professional restraint in design decisions
 
+  ## Screenshots
+
+### Homepage (Desktop)
+![Homepage – Desktop](assets/home-desktop.png)
+
+The homepage establishes a clear value proposition with prominent calls to action,
+making it easy for users to quickly understand services, hours, and how to contact
+the shop.
+
+### Services Overview (Desktop)
+![Services – Desktop](assets/services-desktop.png)
+
+Services are presented in a clean, scannable card layout to help users quickly
+identify what the shop offers without overwhelming them with text.
+
+### Hours & Contact (Desktop)
+![Contact – Desktop](assets/contact-desktop.png)
+
+The contact section prioritizes real-world usability, displaying hours, phone
+number, address, and an embedded map to reduce friction for first-time visitors.
+
+### FAQ / Customer Information (Desktop)
+![FAQ – Desktop](assets/faq-desktop.png)
+
+An accordion-style FAQ section answers common questions without cluttering the page,
+improving usability while keeping the layout clean and focused.
+
+### Responsive Design (Mobile)
+![Homepage – Mobile](assets/home-mobile.png)
+
+The layout was tested and adjusted for mobile devices, ensuring readable content,
+accessible calls to action, and a smooth experience on smaller screens.
+
+![Services – Mobile](assets/services-mobile.png)
+
+Service cards reflow vertically on mobile to maintain clarity and tap-friendly
+interaction.
+
+
 ---
 
 ## Technologies Used
